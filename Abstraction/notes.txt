@@ -1,0 +1,9 @@
+1.Abstraction is the process of hiding implementation details and showing only the essential features of an object.
+abstract classes
+interfaces
+
+2.Abstract class : Class which cannot be instantiated. It has constructor. It can have the abstract or concrete methods.
+3.Interface : It do not have any constructor and can have only abstract methods no concrte methods. The variables declared 
+are bydefaut public static final int. No instance variables are allowed.
+
+In both abstract class and interface you have to implement all the declared methods in the class which extends or implements 

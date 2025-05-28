@@ -1,0 +1,4 @@
+1. Encapsulation is the concept of wrapping data (variables) and code acting on the data (methods) together into a 
+single unit (a class), and restricting direct access to some of the object’s components.
+
+2.
