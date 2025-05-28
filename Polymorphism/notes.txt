@@ -1,0 +1,2 @@
+1.Process of exhibiting different character/behaviour under different cirsumsatnces 
+2. There are two types of polymorphism Run-time ploymorphism(method overriding) and Compile-time polymorphism(method overloading)
