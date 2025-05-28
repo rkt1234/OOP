@@ -1,0 +1,12 @@
+| Feature           | Description                                         |
+| ----------------- | --------------------------------------------------- |
+| `static variable` | Shared among all instances of a class               |
+| `static method`   | Can be called without creating object               |
+| `static block`    | Runs once when class is loaded                      |
+| `static class`    | Can only be a **nested class** inside another class |
+
+Static method can be used using the just class name object creation is not needed
+
+Static blocks are ran only once when the class is loaded in the memory
+
+Static class can only those classes which are nested

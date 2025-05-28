@@ -1,0 +1,6 @@
+| Modifier    | Same Class | Same Package | Subclass (Other Pkg) | Other Classes |
+| ----------- | ---------- | ------------ | -------------------- | ------------- |
+| `public`    | ✅          | ✅            | ✅                    | ✅             |
+| `protected` | ✅          | ✅            | ✅                    | ❌             |
+| Default     | ✅          | ✅            | ❌                    | ❌             |
+| `private`   | ✅          | ❌            | ❌                    | ❌             |
