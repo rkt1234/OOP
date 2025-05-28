@@ -1,0 +1,15 @@
+1.Inheritance is a mechanism where a child class (subclass) inherits properties and behaviors (fields and methods) from a 
+parent class (superclass). It helps to implement code reusability and hierarchy and also method overriding
+
+2.The keyword super is used to access the constructor of the super class. Also it is used to access the super class methods or fields
+hidden by the subclass
+
+3. The keyword extends is used to inherit or establish an inheritance relation between two classes (is-a) relation.
+class child extends parent
+
+4.
+
+
+
+
+
