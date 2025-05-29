@@ -7,8 +7,21 @@ hidden by the subclass
 3. The keyword extends is used to inherit or establish an inheritance relation between two classes (is-a) relation.
 class child extends parent
 
-4.
 
+4.static methods in Java belong to the class, not the object.
+
+When a static method is re-declared in a subclass with the same signature, it hides the superclass method rather than overriding it.
+
+In this line:
+
+java
+Copy
+Edit
+A obj = new B();
+obj.show();   // calls A.show(), not B.show()
+The method show() is resolved at compile time based on the reference type, which is A, not the actual object type (B).
+
+So A.show() is called, printing "A".
 
 
 
